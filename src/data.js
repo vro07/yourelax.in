@@ -1,15 +1,6 @@
 export const data = {
   "Men's fashion": [
-    {
-      id: 1,
-      name: "Allen Solly Men's Regular Fit Polo",
-      link: "https://amzn.in/d/bFkpc5k",
-      imgLink: "https://m.media-amazon.com/images/I/71eUwDk8z+L._SY550_.jpg",
-      Description:
-        "This product is sustaining on a dominating 4.1 rating with 69,000+ reviews and got 1,000 +orders in June 2024. Accordingly, product is highly aspiring and should be brought.",
-      priceFrom: 679,
-      priceTo: 699,
-    },
+    
     {
       id: 2,
       name: "Gildan Men Hooded Sweatshirt",
