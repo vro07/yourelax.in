@@ -29,7 +29,8 @@ const ProductDetail = () => {
         <h3 className="text-4xl font-bold mb-4">{product.name}</h3>
         <p className="text-gray-600 text-lg mb-4">{product.Description}</p>
         <p className="text-green-500 text-2xl font-semibold mb-4">
-          Price: ₹{product.priceFrom} - ₹{product.priceTo}
+          Price: ₹{product.priceFrom}{" "}
+          {product.priceTo ? `- ₹${product.priceTo}` : ""}
         </p>
         <a
           className="mt-4 inline-block bg-blue-500 text-white rounded-full px-4 py-2 text-lg"
