@@ -12,14 +12,23 @@ export const data = {
     },
     {
       id: 2,
-      name: "Madfrog, Men Solid Round Neck T-shirt",
-      link: "http://dl.flipkart.com/dl/madfrog-solid-men-round-neck-beige-t-shirt/p/itm24f4025cfa89d",
-      imgLink:
-        "https://rukminim2.flixcart.com/image/416/416/xif0q/t-shirt/c/a/r/m-mf-t-pc-ds-plain-beige-madfrog-original-imahfhuputpgc8vp.jpeg?q=70&crop=false",
+      name: "Gildan Men Hooded Sweatshirt",
+      link: "https://amzn.to/3KP0aqL",
+      imgLink: "https://m.media-amazon.com/images/I/61qTPaU7dYL._SX679_.jpg",
       Description:
-        "This product is sustaining on a solid 3.8 rating with 11,000+ reviews.",
-      priceFrom: 230,
-      priceTo: 234,
+        "According to me, this is a really good hooded sweatshirt. Gildan, is a really famous brand on Amazon in terms of clothing. Product has a stunning rating of 4.6 with 32,000+ ratings. I think with such a large no. of people rating on a product and the product is still above 4.5 is a genuine miracle. This hooded sweatshirt is available in 5 colors and a price range of 1,699 to 6,399 depending on the size and color. Although, has good option in color variants as well. I think this is a highly recommended product for buying and should be brought soon!",
+      priceFrom: 1679,
+      priceTo: null,
+    },
+    {
+      id: 12,
+      name: "Symbol Men's Rich Polo T Shirt",
+      link: "https://amzn.to/3RBQ40h",
+      imgLink: "https://m.media-amazon.com/images/I/81Lvtp4EoYL._SX569_.jpg",
+      Description:
+        "Amazon Fashion has great chances that the product it has on it's very own fashion brand won't be defected. Moreover, product has a good rating of 4 with 10,000+ ratings. 10,000 is a big number and accordingly sustaining on 4 with 10,000+ rating really proves that product is good. This Polo T-shirt is available in 14 colors and 7 sizes. Price range is from 400 to 459. I think the price point and rating is quite satisfying to put it in the men fashion list in our website.",
+      priceFrom: 419,
+      priceTo: 449,
     },
     {
       id: 3,
@@ -72,14 +81,13 @@ export const data = {
   Watches: [
     {
       id: 7,
-      name: "Fire-boltt Ultimate",
-      link: "http://dl.flipkart.com/dl/fire-boltt-ultimate-1-39-stainless-steel-luxury-bluetooth-calling-120-sports-smartwatch/p/itmab1797e22bbf3",
-      imgLink:
-        "https://rukminim2.flixcart.com/image/416/416/xif0q/smartwatch/x/w/6/-original-imagxp8sc5jgwxfp.jpeg?q=70&crop=false",
+      name: "Noise color fit ultra",
+      link: "https://amzn.to/3xn5nTK",
+      imgLink: "https://m.media-amazon.com/images/I/71y758FMwoL._SL1500_.jpg",
       Description:
-        "Watch with Ultimate 1.39” stainless steel luxury with Bluetooth calling, 120+ sports smartwatch with 10+ strap colors and 3 variants with the display size, got 3,500+ orders in a week! Product has landed on a rating of 4 with 75,000+ reviews. A really good watch currently on discount (90% discount reached, 14,999, only 1,499) so yeah highly recommended to purchase this smartwatch with some really cool features and varieties.",
-      priceFrom: 1399,
-      priceTo: null,
+        "Bluetooth Calling Smart Watch with Biggest 1.96\" AMOLED Display, Premium Metallic Build, Functional Crown, Gesture Control with Leather Strap. I think a watch with such muti-functionality ability are rare to find. Product has a rock solid 4.2 rating with 14,000+ reviews. 14,000 is a huge no. and with these different 14,000 reviews, if it still is sustaining above 4, I believe it's a good watch for sure. Moreover, the watch has 7 color gradient available with a price range of 2,499 to 3,499. I think the rates and reviews are convincing enough to put this product on our website. Should be brought soon!!",
+      priceFrom: 2499,
+      priceTo: 3499,
     },
     {
       id: 8,
