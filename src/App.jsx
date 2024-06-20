@@ -7,7 +7,7 @@ import Layout from "./components/Layout";
 import { LandingProp, data } from "./data.js";
 import ProductDetail from "./components/ProductDetail.jsx";
 import {Landing} from "./components/Landing.jsx";
-
+import { SpeedInsights } from "@vercel/speed-insights/next";
 export default function App() {
   return (
     <BrowserRouter>
