@@ -1,6 +1,5 @@
 export const data = {
   "Men's fashion": [
-    
     {
       id: 2,
       name: "Gildan Men Hooded Sweatshirt",
@@ -31,16 +30,104 @@ export const data = {
       priceFrom: 491,
       priceTo: 499,
     },
+    {
+      id: 13,
+      name: "Gildan unisex adult sweatshirt",
+      link: "https://amzn.to/4bd2i6B",
+      imgLink: "https://m.media-amazon.com/images/I/617skZw6TAL._SX679_.jpg",
+      Description: "",
+      priceFrom: 394,
+      priceTo: 5268,
+    },
+    {
+      id: 14,
+      name: "Gildan men's T-shirt",
+      link: "https://amzn.to/3VN4Ljz",
+      imgLink: "https://m.media-amazon.com/images/I/61ArTwkfyWL._SX569_.jpg",
+      Description: "",
+      priceFrom: 923,
+      priceTo: 1847,
+    },
+    {
+      id: 16,
+      name: "Gildan wrinkle resitant pant",
+      link: "https://amzn.to/4eysLyo",
+      imgLink: "https://m.media-amazon.com/images/I/71zJuSMoWQL._SX569_.jpg",
+      Description: "",
+      priceFrom: 1299,
+      priceTo: null,
+    },
+    {
+      id: 17,
+      name: "Men Slim Straight-fit stretch jeans",
+      link: "https://amzn.to/3W1w1ex",
+      imgLink: "https://m.media-amazon.com/images/I/912SAftRAbL._SY741_.jpg",
+      Description: "",
+      priceFrom: 1699,
+      priceTo: null,
+    },
+    {
+      id: 21,
+      name: "Men Slim Straight-fit stretch casual pant",
+      link: "https://amzn.to/3xfe8zi",
+      imgLink: "https://m.media-amazon.com/images/I/71TUVzyjrhL._SX569_.jpg",
+      Description: "",
+      priceFrom: 1499,
+      priceTo: null,
+    },
+  ],
+
+  Shoes: [
+    {
+      id: 18,
+      name: "NIKE Mens Court Royale 2 NnSneaker",
+      link: "https://amzn.to/4crsOtS",
+      imgLink: "https://m.media-amazon.com/images/I/61z9gzYAr9L._SY675_.jpg",
+      Description: "",
+      priceFrom: 3314,
+      priceTo: null,
+    },
+    {
+      id: 20,
+      name: "Gildan Women Perfume",
+      link: "https://amzn.to/3KSKkM0",
+      imgLink: "https://m.media-amazon.com/images/I/61+uLpr1luL._SX675_.jpg",
+      Description: "",
+      priceFrom: 3294,
+      priceTo: null,
+    },
+  ],
+  Perfumes: [
+    {
+      id: 15,
+      name: "Gildan Women Perfume",
+      link: "https://amzn.to/4etGB51",
+      imgLink: "https://m.media-amazon.com/images/I/61zv+edSLkL._SL1500_.jpg",
+      Description: "",
+      priceFrom: 349,
+      priceTo: null,
+    },
+    {
+      id: 19,
+      name: "Gildan Women Perfume",
+      link: "https://amzn.to/4ezg7Po",
+      imgLink: "https://m.media-amazon.com/images/I/61zBq6pkFFL._SL1500_.jpg",
+      Description: "",
+      priceFrom: 374,
+      priceTo: null,
+    },
   ],
   Smartphone: [
     {
       id: 4,
       name: "REDMI 12",
-      link: "http://dl.flipkart.com/dl/redmi-12-5g-moonstone-silver-128-gb/p/itm6485286f96fb0",
-      imgLink:
-        "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/u/v/h/-original-imagxaqtzmqgtfen.jpeg?q=70&crop=false",
-      Description:
-        "This product is on solid 4.2 rating with 17,000+ reviews. Accordingly, this product is really good because you are getting a really good phone under 15,000",
+      link: "https://amzn.to/45vYtYV",
+      imgLink: "https://m.media-amazon.com/images/I/71tCOhEigtL._SL1500_.jpg",
+      Description: `Snapdragon 4 Gen 2 Mobile Platform : Power efficient 4nm architecture | 12GB of RAM including 6GB Virtual. Display: Large 17.24cm FHD+ 90Hz AdaptiveSync display with Corning Gorilla Glass 3 Protection
+Camera: 50MP f/1.8 AI Dual camera with classic film filters, Film Frame, Portrait, Night Mode, 50MP mode, Time-lapse, Google lens | 8MP Selfie camera.
+5000mAh(typ) battery with 22.5W charger in-box.
+MIUI Dialer | MIUI 14 with Android 13 | Side fingerprint | IR blaster | 3.5mm Audio jack | IP53 rating...
+Accordingly, a phone with these features and even the best among these phones (according to ram and storage) still costs you under 15,000, then the phone is really good. Product has fabulous 4 rating with 4000+ reviews. Although the most shocking part was when amazon informed me that more than 5,000+ orders were sold in month of June itself! Highly recommended for those who are searching for a phone under 15,000.`,
       priceFrom: 11999,
       priceTo: 13999,
     },
@@ -48,25 +135,23 @@ export const data = {
   Gadgets: [
     {
       id: 5,
-      name: "boAt Airdopes 161/163",
-      link: "http://dl.flipkart.com/dl/boat-airdopes-161-163-asap-charge-40-hrs-playback-bluetooth-headset/p/itm6cc7addc967a1",
-      imgLink:
-        "https://rukminim2.flixcart.com/image/416/416/xif0q/headphone/o/d/r/-original-imagpgwsm6zgtsrj.jpeg?q=70&crop=false",
+      name: "boAt Airdopes 141",
+      link: "https://amzn.to/3LdvDmZ",
+      imgLink: "https://m.media-amazon.com/images/I/61KNJav3S9L._SL1500_.jpg",
       Description:
-        "This product stands on a big rating of 4 with 985,000+ reviews and sold 400+ orders in a week. Airdopes are highly compatible and accordingly, I would suggest to buy them.",
-      priceFrom: 899,
-      priceTo: 1699,
+        "Playback- Enjoy an extended break on weekends with your favourite episodes on stream, virtue of a playback time of up to 42 hours including the 6 hours nonstop playtime for earbuds. Low Latency- Our BEAST mode makes Airdopes 141 a partner in entertainment with real-time audio and low latency experience. These tws earbuds are your companion for a perfect gaming experience. Clear Voice Calls- It dons built-in mic on each earbud along with our ENx Environmental Noise Cancellation tech that ensures a smooth delivery of your voice via voice calls, boAt Signature Sound- Delve into your cherished boAt Immersive auditory time with Airdopes 141. ASAP Charge- The tws earbuds are equipped with our ASAP Charge feature that offers up to 75 min of playtime in just 5 min of charge; while the carry case comes along with the Type C interface. Instant Connect- Connect to your morning playlists without any hiccup via the Insta Wake N' Pair technology that powers on the earbuds as soon as you open the case cover. IP Rating- The tws earbuds body comes protected with IPX4 rating for water and sweat resistance. Although product has landed on close 4 but has 197,000+ reviews and has sold 5,000+ orders in June itself. Has some remarkable features and should be brought soon!",
+      priceFrom: 1299,
+      priceTo: 1499,
     },
     {
       id: 6,
-      name: "ASUS Vivobook 15",
-      link: "http://dl.flipkart.com/dl/asus-vivobook-15-intel-core-i3-12th-gen-1215u-8-gb-ssd-512-gb-ssd-windows-11-home-x1502za-ej953ws-thin-light-laptop/p/itm3b11f9400fcd8",
-      imgLink:
-        "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/f/a/d/x1502za-ej545ws-thin-and-light-laptop-asus-original-imahfqg26dzzdmu7.jpeg?q=70&crop=false",
+      name: "HP Laptop 15",
+      link: "https://amzn.to/45zt1ZO",
+      imgLink: "https://m.media-amazon.com/images/I/61Cs3B5GHhL._SL1500_.jpg",
       Description:
-        "Laptop available in 8GB and 16GB although highly recommended to buy 16GB. This product is standing on solid 4.3 rating with 2,900+ reviews and sold 1000+ order in the past month. Beneficial laptop under 40,000. Both 8GB and 16GB.",
-      priceFrom: "35,990",
-      priceTo: 38990,
+        ' For a laptop, thats really good sales for sure! Highly recommended for buying!!',
+      priceFrom: 36970,
+      priceTo: 40990,
     },
   ],
   Watches: [
@@ -80,51 +165,137 @@ export const data = {
       priceFrom: 2499,
       priceTo: 3499,
     },
-    {
-      id: 8,
-      name: "Fire-boltt Grenade",
-      link: "http://dl.flipkart.com/dl/fire-boltt-grenade-1-39-hd-display-bt-calling-350-mah-battery-123-sports-modes-smartwatch/p/itm765994120b5ea",
-      imgLink:
-        "https://rukminim2.flixcart.com/image/416/416/xif0q/smartwatch/2/q/d/-original-imagqvmk34gkzzab.jpeg?q=70&crop=false",
-      Description:
-        "Watch with 1.39” HD display, BT calling, 350 mAh battery and 123 sports modes smartwatch Product has reached it’s highest discount ever (91% discount 15,999 only 1,299!) Available in 9 strap colors and 2 display variants. Product has landed on 4.1 rating with 14,000+ reviews and price point isn’t the only factor to buy it but also has some really fascinating features. Highly suggested to buy!",
-      priceFrom: 1299,
-      priceTo: null,
-    },
   ],
   "Home appliances": [
     {
       id: 9,
-      name: "realme TechLife 7.5 kg Washing Machine",
-      link: "http://dl.flipkart.com/dl/realme-techlife-7-5-kg-5-star-rating-semi-automatic-top-load-washing-machine-black-grey/p/itm16f231540f615",
-      imgLink:
-        "https://rukminim2.flixcart.com/image/416/416/xif0q/washing-machine-new/x/b/j/-original-imags7pajggkacwy.jpeg?q=70&crop=false",
+      name: "Samsung Washing Machine",
+      link: "https://amzn.to/45vepe5",
+      imgLink: "https://m.media-amazon.com/images/I/51nt4zKQfsL._SL1500_.jpg",
       Description:
-        "Product has landed on 4.2 solid rating with 54,000+ ratings and highly suggested to buy! Sold 1000+ orders in a month!!",
-      priceFrom: 7690,
-      priceTo: 7990,
+        "Fully-automatic top load washing machine: Affordable with great wash quality Easy to use. Capacity 7 kg: Suitable for 3 - 4 members. Energy Star rating : 4 Star- energy efficiency. Manufacturer Warranty:2 year comprehensive warranty on the product. Motor: 680 RPM: Higher spin speeds helps in faster washing and drying With its high speed and efficiency it's perfect for busy households and those who want to get laundry done quickly and effectively. Wash Programs: 4 Wash Programs - Normal Quick Wash Soak+Normal Delicates Eco Tub Clean Energy Saving. Drum type : Diamond Drum| Pulsator : Center Jet| Drum Material : Stainless Steel. Well this washing machine sounds so good for real. Product has landed on 4.3 rating with 4,700+ reviews. I think the product is great for sure because it has managed to sell 2,000 orders in June itself. Highly recommended for one who is searching for a full proof washing machine!",
+      priceFrom: 15690,
+      priceTo: null,
     },
     {
       id: 10,
-      name: "Flipkart Smartbuy Kitchen King Mixer, Juicer, Grinder",
-      link: "http://dl.flipkart.com/dl/flipkart-smartbuy-kitchen-king-750-w-juicer-mixer-grinder-4-jars-blue/p/itm3613d9915554a",
-      imgLink:
-        "https://rukminim2.flixcart.com/image/416/416/xif0q/mixer-grinder-juicer/x/x/u/-original-imagzyw6mazz4dvp.jpeg?q=70&crop=false",
+      name: "Nutri pro juicer, mixer, Grinder",
+      link: "https://amzn.to/3RxSlK4",
+      imgLink: "https://m.media-amazon.com/images/I/71PkRff5mdL._SL1500_.jpg",
       Description:
-        "We know home appliances play huge role in kitchen! Hence, here's a mixer, grinder, juicer which is 4 variants in color, 3 to 4 total jars and does varies with power consumptions. Price ranges from 1,599 to 2,599 according to the color variant, jar's qunatities and power consumption. Product has a rating of 4.1 with 108,000+ reviews! Has a 7 day replacement accessibility and is highly suggestible for buying!",
-      priceFrom: 1299,
-      priceTo: 2599,
+        "Make Smoothies and Juices within seconds. Also suitable for dry grinding, chutneys and dips. Powerful 500 W copper motor can grind almost any food. Best in the segment customer support and quality. Includes easy to make and carry sipper jar. This combo of mixer, juicer and grinder has some other sub-ratings on it's different features like easy to use had a solid 4.5, easy to clean had a fabulous 4.4, durability had a 4.3 and noise level was rated 4. Moreover product has a rating of 4.4 and had 27,000+ reviews and had sold 5,000+ orders in June. A really good price of 1,698 which is good because it's a whole combo of a mixer, juicer and a grinder!",
+      priceFrom: 1698,
+      priceTo: null,
     },
     {
       id: 11,
-      name: "TNC steel floor cloth dryer",
-      link: "http://dl.flipkart.com/dl/tnc-steel-floor-cloth-dryer-stand-900236/p/itm5ea2ad197d893",
-      imgLink:
-        "https://rukminim2.flixcart.com/image/416/416/kuvkcy80hlty2aw/home-utilities/a/t/p/900236-tnc-original-imag7znwhmmfhhgd.jpeg?q=70&crop=false",
+      name: "LiMETRO cloth dryer",
+      link: "https://amzn.to/3XyI1Fk",
+      imgLink: "https://m.media-amazon.com/images/I/71JEunmpBvL._SL1500_.jpg",
       Description:
-        "Rainy season is near and no place to dry clothes on, well here we are with this amazing cloth dryer with 80% discount and available 1,199! 1,600+ orders sold! Product is on 4 rating with 23,000+ reviews and due to seasonal and price impact, highly suggestible for buying!",
-      priceFrom: 1199,
-      priceTo: null,
+        "DESIGN AND UNIQUE FEATURES : 100 % Stainless Steel including Screws and Fasteners making it rust and corrosion free !!: Strong construction with large drying space with high quality metal construction, more sturdy and durable you can position your clothes with a nice amount of space between them so they can dry thoroughly.100 % Stainless Steel including Screws and Fasteners making it rust and corrosion free !! ALL WEATHER RESISTANT:Built from high-grade, 202 Stainless steel and precision engineered HDPE components to ensure maximum corrosion resistance. Designed for use in all climates and weather conditions. USAGE AND SPACE : Easy to use and foldable light weight and easy to open and close for use can be used both indoors and outdoors, accordion design folds flat for easy storage on your small area.Cloth stand has 5.5 feet of drying space for drying lots of clothes at once / Height : 3 feet. ADVANTAGE AND SETTING UP: Suitable for clothes need to lay flat to dry features a top shelf for sweaters or other flat-drying items.It Comes fully assembled. Can be set up and folded in seconds. Takes very less space after you fold it. STURDY AND LIGHT WEIGHT : Ideal for every home as this cloth dryer rack can hold huge load of clothes on multiple rods and best of breed for balcony use. I think that this is a seasonal product, and rainy season is going on so yeah a definite product to buy according to season and moreover, product has landed on a rock solid 4.4 with 26,000+ reviews and had some other sub- ratings like easy to assemble was 4.6, easy to fold 4.5, light weight was 4.3 and regulated movement had 4.2. Highly recommended product!",
+      priceFrom: 1549,
+      priceTo: 2449,
     },
   ],
 };
+
+
+export const LandingProp = [
+  {
+    title: "Gildan Men Hooded Sweatshirt",
+    link: "/product/2",
+    thumbnail: "https://m.media-amazon.com/images/I/61qTPaU7dYL._SX679_.jpg",
+  },
+  {
+    title: "HP Laptop 15",
+    link: "/product/6",
+    thumbnail: "https://m.media-amazon.com/images/I/61Cs3B5GHhL._SL1500_.jpg",
+  },
+  {
+    title: "Noise color fit ultra",
+    link: "/product/7",
+    thumbnail: "https://m.media-amazon.com/images/I/71y758FMwoL._SL1500_.jpg",
+  },
+  {
+    title: "Samsung Washing Machine",
+    link: "/product/9",
+    thumbnail: "https://m.media-amazon.com/images/I/51nt4zKQfsL._SL1500_.jpg",
+  },
+  {
+    title: "Nutri pro juicer, mixer, Grinder",
+    link: "/product/10",
+    thumbnail: "https://m.media-amazon.com/images/I/71PkRff5mdL._SL1500_.jpg",
+  },
+  {
+    title: "LiMETRO cloth dryer",
+    link: "/products",
+    thumbnail: "https://m.media-amazon.com/images/I/71JEunmpBvL._SL1500_.jpg",
+  },
+  {
+    title: "Nike shoes",
+    link: "/product/18",
+    thumbnail: "https://m.media-amazon.com/images/I/61z9gzYAr9L._SY675_.jpg",
+  },
+  {
+    title: "boAt Airdopes 141",
+    link: "/product/5",
+    thumbnail: "https://m.media-amazon.com/images/I/61KNJav3S9L._SL1500_.jpg",
+  },
+  {
+    title: "Nike Shoes",
+    link: "/product/20",
+    thumbnail: "https://m.media-amazon.com/images/I/61+uLpr1luL._SX675_.jpg",
+  },
+  {
+    title: "Symbol Men's Rich Polo T Shirt",
+    link: "/product/12",
+    thumbnail: "https://m.media-amazon.com/images/I/81Lvtp4EoYL._SX569_.jpg",
+  },
+  {
+    title: "Alan Jones Men's slim fit track pants",
+    link: "/product/3",
+    thumbnail: "https://m.media-amazon.com/images/I/71C7FDDEJbL._SX679_.jpg",
+  },
+  {
+    title: "Gildan unisex adult sweatshirt",
+    link: "/product/13",
+    thumbnail: "https://m.media-amazon.com/images/I/617skZw6TAL._SX679_.jpg",
+  },
+  {
+    title: "Gildan men's T-shirt",
+    link: "/product/14",
+    thumbnail: "https://m.media-amazon.com/images/I/61ArTwkfyWL._SX569_.jpg",
+  },
+  {
+    title: "Gildan wrinkle resistant pant",
+    link: "/product/16",
+    thumbnail: "https://m.media-amazon.com/images/I/71zJuSMoWQL._SX569_.jpg",
+  },
+  {
+    title: "Men Slim Straight-fit stretch jeans",
+    link: "/product/17",
+    thumbnail: "https://m.media-amazon.com/images/I/912SAftRAbL._SY741_.jpg",
+  },
+  {
+    title: "Men Slim Straight-fit stretch casual pant",
+    link: "/product/21",
+    thumbnail: "https://m.media-amazon.com/images/I/71TUVzyjrhL._SX569_.jpg",
+  },
+
+  {
+    title: "Gildan Women Perfume",
+    link: "/product/15",
+    thumbnail: "https://m.media-amazon.com/images/I/61zv+edSLkL._SL1500_.jpg",
+  },
+  {
+    title: "Gildan Women Perfume",
+    link: "/product/19",
+    thumbnail: "https://m.media-amazon.com/images/I/61zBq6pkFFL._SL1500_.jpg",
+  },
+  {
+    title: "REDMI 12",
+    link: "/product/4",
+    thumbnail: "https://m.media-amazon.com/images/I/71tCOhEigtL._SL1500_.jpg",
+  },
+];
