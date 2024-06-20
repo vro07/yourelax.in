@@ -99,8 +99,8 @@ export const Header = () => {
         Your Trusted <br /> shopping partner
       </h1>
       <p className="max-w-2xl text-base md:text-xl mt-8 ">
-        We curate the top products from the trusted brands, And make it
-        available to you.
+        We curate top products from trusted brands and make them available to
+        you, ensuring quality and reliability with every selection.
       </p>
       <button
         onClick={() => {
