@@ -21,6 +21,9 @@ export default function App() {
         <Route path="/product/:id" element={<Layout />}>
           <Route index element={<ProductDetail />} />
         </Route>
+        <Route path="/:id" element={<Layout />}>
+          <Route index element={<ProductDetail />} />
+        </Route>
       </Routes>
     </BrowserRouter>
   );
