@@ -6,7 +6,7 @@ export const data = {
       link: "https://amzn.to/3KP0aqL",
       imgLink: "https://m.media-amazon.com/images/I/61qTPaU7dYL._SX679_.jpg",
       Description:
-        "According to me, this is a really good hooded sweatshirt. Gildan, is a really famous brand on Amazon in terms of clothing. Product has a stunning rating of 4.6 with 32,000+ ratings. I think with such a large no. of people rating on a product and the product is still above 4.5 is a genuine miracle. This hooded sweatshirt is available in 5 colors and a price range of 1,699 to 6,399 depending on the size and color. Although, has good option in color variants as well. I think this is a highly recommended product for buying and should be brought soon!",
+        "According to me, this is a really good hooded sweatshirt. Gildan, is a really famous brand on Amazon in terms of clothing. Product has a stunning rating of 4.6 with 32,000+ ratings. I think with such a large no. of people rating on a product and the product is still above 4.5 is a genuine miracle. This hooded sweatshirt is available in 5 colors and a price range of 1,679 to 6,399 depending on the size and color. Although, has good option in color variants as well. I think this is a highly recommended product for buying and should be brought soon!",
       priceFrom: 1679,
       priceTo: null,
     },
