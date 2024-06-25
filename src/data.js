@@ -89,7 +89,7 @@ export const data = {
     },
     {
       id: 20,
-      name: "Gildan Women Perfume",
+      name: "Nike Womens running Shoes",
       link: "https://amzn.to/3KSKkM0",
       imgLink: "https://m.media-amazon.com/images/I/61+uLpr1luL._SX675_.jpg",
       Description: "",
@@ -100,7 +100,7 @@ export const data = {
   Perfumes: [
     {
       id: 15,
-      name: "Gildan Women Perfume",
+      name: "Gildan Women's Perfume",
       link: "https://amzn.to/4etGB51",
       imgLink: "https://m.media-amazon.com/images/I/61zv+edSLkL._SL1500_.jpg",
       Description: "",
@@ -149,7 +149,7 @@ Accordingly, a phone with these features and even the best among these phones (a
       link: "https://amzn.to/45zt1ZO",
       imgLink: "https://m.media-amazon.com/images/I/61Cs3B5GHhL._SL1500_.jpg",
       Description:
-        ' For a laptop, thats really good sales for sure! Highly recommended for buying!!',
+        " For a laptop, thats really good sales for sure! Highly recommended for buying!!",
       priceFrom: 36970,
       priceTo: 40990,
     },
