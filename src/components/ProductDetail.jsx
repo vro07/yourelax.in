@@ -1,7 +1,7 @@
 /* eslint-disable no-unused-vars */
 // @ts-nocheck
 // src/components/ProductDetail.js
-import React from "react";
+import React,{useEffect} from "react";
 import { useParams } from "react-router-dom";
 import { data } from "../data";
 
@@ -10,7 +10,9 @@ const ProductDetail = () => {
   const product = Object.values(data)
     .flat()
     .find((product) => product.id === parseInt(id));
-
+useEffect(() => {
+  window.scrollTo(0, 0);
+}, []);
   if (!product) {
     // console.log(id);
     return <div className="text-center mt-8">Product not found.</div>;
